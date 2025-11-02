@@ -17,6 +17,7 @@ struct ContentView: View {
             Text("三回目のコミット")
             
             //リモートリポジトリと接続
+            Text("最新コミット")
         }
         .padding()
     }
