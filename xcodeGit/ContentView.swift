@@ -15,6 +15,8 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Hello, world!")
             Text("三回目のコミット")
+            
+            //リモートリポジトリと接続
         }
         .padding()
     }
